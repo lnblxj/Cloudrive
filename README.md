@@ -54,11 +54,11 @@ Elasticsearch： 搜索
 
 ### 运行截图
 
-![446.png](https://img.picui.cn/free/2025/05/11/68200f9ac625b.png)
-![229.png](https://img.picui.cn/free/2025/05/11/68200f9be4c1c.png)
-![405.png](https://img.picui.cn/free/2025/05/11/68200f9d9ca94.png)
-![537.png](https://img.picui.cn/free/2025/05/11/68200fa3cf112.png)
-![109.png](https://img.picui.cn/free/2025/05/11/68200fa8b354b.png)
-![815.png](https://img.picui.cn/free/2025/05/11/68200fab751d4.png)
-![024.png](https://img.picui.cn/free/2025/05/11/68200fac289a9.png)
-![111.png](https://img.picui.cn/free/2025/05/11/68200fad5a4a3.png)
+<img src="https://img.picui.cn/free/2025/05/11/68200f9ac625b.png"/>
+<img src="https://img.picui.cn/free/2025/05/11/68200f9be4c1c.png"/>
+<img src="https://img.picui.cn/free/2025/05/11/68200f9d9ca94.png"/>
+<img src="https://img.picui.cn/free/2025/05/11/68200fa3cf112.png"/>
+<img src="https://img.picui.cn/free/2025/05/11/68200fa8b354b.png"/>
+<img src="https://img.picui.cn/free/2025/05/11/68200fab751d4.png"/>
+<img src="https://img.picui.cn/free/2025/05/11/68200fac289a9.png"/>
+<img src="https://img.picui.cn/free/2025/05/11/68200fad5a4a3.png"/>
