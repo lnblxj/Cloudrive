@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/logo-light.png)
-# Cloudrive
+# <img width="60" height="60" src="https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/logo-light.png" /> Cloudrive
 
 基于微服务的网盘+社区
 
