@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/logo-light.png)
 # Cloudrive
 
 基于微服务的网盘+社区
@@ -54,11 +55,14 @@ Elasticsearch： 搜索
 
 ### 运行截图
 
-<img src="https://img.picui.cn/free/2025/05/11/68200f9ac625b.png"/>
-<img src="https://img.picui.cn/free/2025/05/11/68200f9be4c1c.png"/>
-<img src="https://img.picui.cn/free/2025/05/11/68200f9d9ca94.png"/>
-<img src="https://img.picui.cn/free/2025/05/11/68200fa3cf112.png"/>
-<img src="https://img.picui.cn/free/2025/05/11/68200fa8b354b.png"/>
-<img src="https://img.picui.cn/free/2025/05/11/68200fab751d4.png"/>
-<img src="https://img.picui.cn/free/2025/05/11/68200fac289a9.png"/>
-<img src="https://img.picui.cn/free/2025/05/11/68200fad5a4a3.png"/>
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot1.png)
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot2.png)
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot3.png)
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot4.png)
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot5.png)
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot6.png)
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot7.png)
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot8.png)
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot9.png)
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot10.png)
+![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot11.png)
