@@ -1,0 +1,4 @@
+export default {
+    logo: "/static/auth/logo-light-mask.png", 
+	authbg: "/static/auth/authbg.png"
+}

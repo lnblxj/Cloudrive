@@ -1,20 +1,15 @@
 # <img width="60" height="60" src="https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/logo-light.png" /> Cloudrive
 
+## 简介
+
 基于微服务的网盘+社区
 
 WEB端 + 手机APP
-## 简介
 
 😈 代码写的很烂
 
-此系统为本人2025年的毕业设计，请遵循GPL-v3.0协议
+此项目为本人2025年的毕业设计，请遵循GPL-v3.0协议
 
-特此声明！
-
-***
-## 源代码
-
-即将公开
 ***
 
 ## 概况

@@ -1,0 +1,27 @@
+.card-border{
+	border: 1px solid #e3e8f7;
+}
+
+.card-border-hover:hover{
+	border: 1px solid $u-type-primary;
+	transition:all .6s;
+}
+.border-primary{
+	border: 1px solid $u-type-primary;
+}
+
+.text-hover:hover{
+	color: $u-type-primary;
+}
+
+.img-hover-box{
+	overflow: hidden;
+}
+
+.img-hover-box:hover .img-hover{
+	transform: scale(1.06);
+}
+
+.img-hover{
+	transition:all .6s;
+}
