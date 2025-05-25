@@ -59,8 +59,6 @@ MySQL：数据库
 
 MongoDB：数据库
 
-Sentiment：熔断降级
-
 RabbitMQ：消息队列
 
 Minio：文件存储
@@ -80,5 +78,4 @@ Elasticsearch： 搜索
 ![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot7.png)
 ![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot8.png)
 ![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot9.png)
-![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot10.png)
 ![](https://raw.githubusercontent.com/lnblxj/Cloudrive/main/assets/screenshot11.png)
